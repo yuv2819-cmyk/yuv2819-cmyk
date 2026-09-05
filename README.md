@@ -20,6 +20,14 @@ Data scientist by training. I design, ship, and iterate small SaaS tools across 
 | [Voidspace Canvas](https://github.com/yuv2819-cmyk/voidspace-canvas) | Visual node canvas (React Flow + Next.js) | [demo](https://voidspace-canvas.vercel.app) |
 | [Data Science Portfolio](https://github.com/yuv2819-cmyk/data-science-portfolio) | Churn, pricing, sentiment, segmentation, forecasting | notebooks |
 
+## New tools (Sep 2026)
+
+| Tool | What it is |
+|---|---|
+| [relay-desk](https://github.com/yuv2819-cmyk/relay-desk) | Three-agent desk: researcher → drafter → critic. Works offline. |
+| [proposal-forge](https://github.com/yuv2819-cmyk/proposal-forge) | Job post in, structured freelance proposal out. No API key. |
+| [llm-meter](https://github.com/yuv2819-cmyk/llm-meter) | Log model calls and estimate spend in USD + INR. |
+
 ---
 
 ## Stack I ship with
